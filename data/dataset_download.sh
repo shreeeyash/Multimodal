@@ -1,4 +1,4 @@
-makedir dataset
+mkdir dataset
 cd dataset
 
 wget "http://immortal.multicomp.cs.cmu.edu/raw_datasets/old_processed_data/cmu-mosei/data/audio_test.h5"
